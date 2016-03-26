@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails'
+gem 'bcrypt'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
@@ -8,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'sdoc', group: :doc
+
 
 group :development, :test do
   gem 'sqlite3'    
