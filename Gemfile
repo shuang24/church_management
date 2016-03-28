@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rails'
 gem 'bcrypt'
+gem 'will_paginate'
+gem 'faker'
 gem 'sass-rails'
 gem 'uglifier'
 gem 'coffee-rails'
